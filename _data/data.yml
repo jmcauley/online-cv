@@ -79,6 +79,57 @@ experiences:
         - Leading operational deployment strategy
       details: |
         Re-joined a team on the ICD-10 transition project to help with the transition from initial software build-out to maturation. Major tasks include re-architecting to scale the system up to handle operational demands involving transformation of 20 million+ records at a time. Performance improvements have been achieved through introduction of parallel task execution, a Pub/Sub queue-processing subsystem, data-structure usage analysis, and key-value NoSql caching. Operational deployment improvements center around more advanced usage of continuous integration, scripted binary deployments, and the introduction of automated database scripting.
+    - role: Technical Program Manager
+      time: Mar. 2013 - Jul. 2014
+      company: Citizen, Inc. (Intel)
+      roles: 
+        • Responsible for program management across projects
+        • Subject Matter Expert for API/SaaS development
+        • Technical Due Diligence for acquisition targets
+      details: |
+        Helped lead technical due diligence, competitive analysis, and opportunity analysis for a new division at Intel during the acquisition of two companies and the simultaneous first phases of product definition for a new venture. Projects included competitive analysis research, qualitative market research interviews, weekly project update summaries and timeline overviews, and construction and presentation of educational materials around the API/SaaS space.
+    - role: Developer IV
+      time: Oct. 2012 - Mar. 2013
+      company: Cambia (KForce)
+      roles: 
+        - Responsible for software architecture
+        - Lead development methodology updates
+        - Lead updates to user story creation process
+      details: |
+        Joined a team at Cambia on a 6-month contract to create a system to manage a multimillion record rule processing system. The system had to migrate rules from a flat data structure to a hierarchical structure while also migrating from ICD-9 codes to ICD-10 codes while maintaining logical equivalence. The code needed to be rearchitected from a single-developer ASP.NET/Winforms code-behind structure to a modern .Net MVC structure with separation of concerns, a modern ORM, and test driven development to allow a growing team of developers to actively work on system in a useful fashion.
+    - role: Engineering Director
+      time: Jan. 2012 - Oct. 2012
+      company: Health eSignature
+      roles: 
+        - Played a lead role in product definition and development
+        - Responsible for systems integration
+        - Responsible for product architecture
+      details: |
+        Helped guide a small startup company through its first two releases, moving to a fault-tolerant, scalable cloud deployment backing a highly-integrated health care application with a mobile delivery mechanism. The system utilizes AWS infrastructure for providing a SaaS product with a Scala/Ruby on Rails REST API layer, JQuery Mobile UI and a MongoDB back end. Customer systems integration is accomplished through a Java/Rhino/JS workflow engine and REST/XMPP for data exchange. Patient-facing application is an iPad application with a dynamically generated forms UI based on a JSON data format.
+
+    - role: Engineering Manager - Revenue Cycle Management
+      time: 2011 - Jan. 2012
+      company: Kryptiq
+      roles: 
+        - Played a lead role in product definition and development
+        - Responsible for project management and meeting milestone deadlines
+        - Technical architect
+      details: |
+        Managed a growing team as product utilization and revenues more than doubled year over year. Helped install and train a cross-functional team (product management, implementation, new QA and Support resources) as the product suite matured and gained traction in the marketplace. Developed internal documentation and training resources and continued role as technical architect as well as leading scrums, managing development assignments and mapping out milestones and deliverables.
+
+        Product utilized C#/.Net MVC for a middle tier with a jQuery-based UI atop a C#/Boo back end providing a scalable state machine-based recursive descent parser. The Boo-based DSL allowed for description of arbitrary customer file formats while efficiently processing tens of thousands of records at a time.
+    - role: Development Lead - Revenue Cycle Management
+      time: Aug. 2008 - 2011
+      company: Kryptiq
+      roles: 
+        - Technical architect
+        - Managed transition of products from ColdFusion to .Net
+        - Integrated RCM products with existing suite of Kryptiq solutions
+      details: |
+        Acquired as the primary asset from Secure Network Solutions, I took the single-developer codebase for our products and expanded them to a more fully developed suite by bringing additional developers into the fold, working with customers to define the product feature sets and establishing a cross-functional team to allow the products to mature.
+
+        Continued development of the ColdBox MVC-based SaaS product, substantially reworking the internal queue-processing functions for performance, adding in new VOIP integration options and updating the ExtJS-based UI.
+        Created a new online billing application with a hybrid ColdFusion/C# structure, defining data contracts and separation of concerns with a REST-based API.
 projects:
     title: Projects
     intro: >
