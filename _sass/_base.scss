@@ -185,7 +185,11 @@ p {
         font-size: 16px;
         margin-top: 0;
         margin-bottom: 0;
-        font-weight: 500;
+        font-weight: 800;
+    }
+    .job-accomplishments, .job-roles {
+        font-weight: 600;
+        margin-bottom: 2px;
     }
     .time {
         position: absolute;
