@@ -61,28 +61,24 @@ experiences:
         - Manager of largest company department
       details: | 
         Grew the department from 4 to 15 employees in the course of 2 years. During that time, we established a new DevOps build and deployment infrastructure (using Docker and CircleCI), migrated our front end web products to React, and built a microservices architecture backing our API using Goa and Consul. I introduced a number of development process improvements, including feature branching, feature flagging, and integration testing that greatly improved both our velocity and quality. Through these improvements, the company launched a second flagship product, established a track record of consistent delivery, and improved customer trust in quality.
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Professional Services Manager
+      time: Sept. 2014 - Sept. 2015
+      company: Monsoon Commerce
+      roles: 
+        - Custom development project leadership
+        - Group methodology and process establishment
+        - Junior development mentor
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Created a new Professional Services group. Developed expert-level knowledge of the inner workings of all the Monsoon products and designed new processes, workflows, tools, and standards. Completed multiple customer projects against each software system, utilizing a diverse range of programming languages. Brought on the first junior developer from the Tech Support department, demonstrating a commitment to developing talent from within. Presented workshops at the annual user conference, generating a number of leads and customer excitement which turned into several project engagements. Customer projects were uniformly well received and led to increased revenue for both the customers and the company.
+    - role: Developer IV
+      time: Aug. 2013 - Aug. 2014
+      company: Cambia (KForce)
+      roles: 
+        - Responsible for software architecture
+        - Leading development methodology updates
+        - Leading operational deployment strategy
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Re-joined a team on the ICD-10 transition project to help with the transition from initial software build-out to maturation. Major tasks include re-architecting to scale the system up to handle operational demands involving transformation of 20 million+ records at a time. Performance improvements have been achieved through introduction of parallel task execution, a Pub/Sub queue-processing subsystem, data-structure usage analysis, and key-value NoSql caching. Operational deployment improvements center around more advanced usage of continuous integration, scripted binary deployments, and the introduction of automated database scripting.
 projects:
     title: Projects
     intro: >
