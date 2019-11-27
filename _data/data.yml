@@ -27,7 +27,7 @@ sidebar:
         level: Native
 
     interests:
-      - item: D, E, & I
+      - item: Diversity, Equity, and Inclusion
         link:
 
       - item: Ecology
@@ -63,7 +63,7 @@ experiences:
         - Responsible for budget and hiring
         - Manager of largest company department
       details: | 
-        Grew the department from 4 to 15 employees in the course of 2 years. During that time, we established a new DevOps build and deployment infrastructure (using Docker and CircleCI), migrated our front end web products to React, and built a microservices architecture backing our API using Goa and Consul. I introduced a number of development process improvements, including feature branching, feature flagging, and integration testing that greatly improved both our velocity and quality. Through these improvements, the company launched a second flagship product, established a track record of consistent delivery, and improved customer trust in quality.
+        Grew the department from 4 to 18 employees in the course of 3 years. During that time, we established a new DevOps build and deployment infrastructure (using Docker, CircleCI, Nomad, and Terraform), migrated our front end web products to React, and built a microservices architecture backing our API using Goa and Consul. We introduced a number of development process improvements, including feature branching, feature flagging, automated testing, and gated deployments that greatly improved both our velocity and quality. We also introduced new people processes and tools including 15-5s, collaborative 1:1s, and OKRs. Through these improvements, the company launched a second flagship product, established a track record of consistent delivery, and improved customer trust in quality.
     - role: Professional Services Manager
       time: Sept. 2014 - Sept. 2015
       company: Monsoon Commerce
