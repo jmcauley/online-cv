@@ -64,7 +64,7 @@ experiences:
     - role: Professional Services Manager
       time: Sept. 2014 - Sept. 2015
       company: Monsoon Commerce
-      roles: 
+      roles: |
         - Custom development project leadership
         - Group methodology and process establishment
         - Junior development mentor
@@ -73,7 +73,7 @@ experiences:
     - role: Developer IV
       time: Aug. 2013 - Aug. 2014
       company: Cambia (KForce)
-      roles: 
+      roles: |
         - Responsible for software architecture
         - Leading development methodology updates
         - Leading operational deployment strategy
@@ -82,7 +82,7 @@ experiences:
     - role: Technical Program Manager
       time: Mar. 2013 - Jul. 2014
       company: Citizen, Inc. (Intel)
-      roles: 
+      roles: |
         - Responsible for program management across projects
         - Subject Matter Expert for API/SaaS development
         - Technical Due Diligence for acquisition targets
@@ -91,7 +91,7 @@ experiences:
     - role: Developer IV
       time: Oct. 2012 - Mar. 2013
       company: Cambia (KForce)
-      roles: 
+      roles: |
         - Responsible for software architecture
         - Lead development methodology updates
         - Lead updates to user story creation process
@@ -100,7 +100,7 @@ experiences:
     - role: Engineering Director
       time: Jan. 2012 - Oct. 2012
       company: Health eSignature
-      roles: 
+      roles: |
         - Played a lead role in product definition and development
         - Responsible for systems integration
         - Responsible for product architecture
@@ -110,7 +110,7 @@ experiences:
     - role: Engineering Manager - Revenue Cycle Management
       time: 2011 - Jan. 2012
       company: Kryptiq
-      roles: 
+      roles: |
         - Played a lead role in product definition and development
         - Responsible for project management and meeting milestone deadlines
         - Technical architect
@@ -121,7 +121,7 @@ experiences:
     - role: Development Lead - Revenue Cycle Management
       time: Aug. 2008 - 2011
       company: Kryptiq
-      roles: 
+      roles: |
         - Technical architect
         - Managed transition of products from ColdFusion to .Net
         - Integrated RCM products with existing suite of Kryptiq solutions
