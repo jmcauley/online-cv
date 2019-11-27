@@ -22,8 +22,15 @@
       <div class="company">{{ experience.company }}</div>
 
     </div><!--//meta-->
+    {% if experience.roles %}
+      Roles
+    <div class="details">
+      {{ experience.roles | markdownify }}
+    </div><!--//details-->
+    {% endif %}
 
     {% if experience.details %}
+      Accomplishments
     <div class="details">
       {{ experience.details | markdownify }}
     </div><!--//details-->

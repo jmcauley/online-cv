@@ -55,13 +55,11 @@ experiences:
     - role: Director of Engineering
       time: Oct. 2015 - Present
       company: TreeTop Commons
-      details: |
-        Roles
-          - Setting technical direction for the company
-          - Responsible for budget and hiring
-          - Manager of largest company department
-          
-        Accomplishments
+      roles: |
+        - Setting technical direction for the company
+        - Responsible for budget and hiring
+        - Manager of largest company department
+      details: | 
         Grew the department from 4 to 15 employees in the course of 2 years. During that time, we established a new DevOps build and deployment infrastructure (using Docker and CircleCI), migrated our front end web products to React, and built a microservices architecture backing our API using Goa and Consul. I introduced a number of development process improvements, including feature branching, feature flagging, and integration testing that greatly improved both our velocity and quality. Through these improvements, the company launched a second flagship product, established a track record of consistent delivery, and improved customer trust in quality.
     - role: Senior Software Engineer
       time: 2014 - 2015
