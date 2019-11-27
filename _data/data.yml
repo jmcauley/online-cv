@@ -26,12 +26,6 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
       - item: Climbing
         link:
@@ -45,12 +39,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a successful software engineer and technical team leader with over 20 years of high level professional experience. I enjoy working in cross disciplinary groups, tackling important projects, and bringing new and innovative technologies to bear on interesting problems. I am looking for challenging positions leading teams in the creation and delivery of world-class software. My current areas of research focus include practical approaches to scalable distributed-computing systems and building more effective development teams through collaboration and analytics.
 education:
     - degree: MSc in Computer Science
       university: University of London
