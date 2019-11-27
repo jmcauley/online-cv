@@ -131,31 +131,21 @@ experiences:
         Continued development of the ColdBox MVC-based SaaS product, substantially reworking the internal queue-processing functions for performance, adding in new VOIP integration options and updating the ExtJS-based UI.
         Created a new online billing application with a hybrid ColdFusion/C# structure, defining data contracts and separation of concerns with a REST-based API.
 projects:
-    title: Projects
+    title: Volunteer Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I am a regular volunteer on a variety of community projects. My areas of interest tend to focus on Youth Development, Education, and Diversity, Equity, & Inclusion 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Thinkful Industry Advisory Panel
+        tagline: "Curriculum review and performance evaluation for a code school aimed at improving the development and hiring of underrepresented groups in tech."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Portland Public Schools Community Budget Review Committee
+        tagline: "Advisory and review panel on the development, priorities, and details of the PPS budget in conjunction with the elected School Board."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Business for a Better Portland
+        tagline: "Progressive local industry group focusing on the partnership between local business and local government to improve the region.  Most recent volunteer focus was on revenue reform and education funding."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: NE United Soccer Club
+        tagline: "Youth recreational soccer coaching."
 
 publications:
     title: Publications
