@@ -41,28 +41,16 @@ career-profile:
     summary: |
       I am a successful software engineer and technical team leader with over 20 years of high level professional experience. I enjoy working in cross disciplinary groups, tackling important projects, and bringing new and innovative technologies to bear on interesting problems. I am looking for challenging positions leading teams in the creation and delivery of world-class software. My current areas of research focus include practical approaches to scalable distributed-computing systems and building more effective development teams through collaboration and analytics.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor of Science
+      university: University of Oregon
+      time: 1994 - 1997
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        - Major in Mathematics
+        - Minors in Biology, Physics
+    - university: Reed College
+      time: 1992 - 1993
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Majors in Mathematics and Physics
 experiences:
     - role: Lead Developer
       time: 2015 - Present
