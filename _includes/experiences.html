@@ -23,14 +23,14 @@
 
     </div><!--//meta-->
     {% if experience.roles %}
-    <h3>Roles</h3>
+    <h3 class="job-title">Roles</h3>
     <div class="details">
       {{ experience.roles | markdownify }}
     </div><!--//details-->
     {% endif %}
 
     {% if experience.details %}
-      <h3>Accomplishments</h3>
+      <h3 class="job-title">Accomplishments</h3>
     <div class="details">
       {{ experience.details | markdownify }}
     </div><!--//details-->
